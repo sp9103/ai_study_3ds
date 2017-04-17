@@ -6,3 +6,5 @@ Note
 List
 - Choy et al., 3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction, ECCV'16.
 	https://chrischoy.github.io/publication/r2n2/
+- V Mnih et al., Playing Atari with Deep Reinforcement Learning, NIPS 2013 <-Google DeepMind
+ 	https://arxiv.org/abs/1312.5602
