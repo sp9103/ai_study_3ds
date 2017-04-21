@@ -8,3 +8,5 @@ List
 	https://chrischoy.github.io/publication/r2n2/
 - V Mnih et al., Playing Atari with Deep Reinforcement Learning, NIPS 2013 <-Google DeepMind
  	https://arxiv.org/abs/1312.5602
+- Ian J. Goodfellow et al., Generative Adversarial Networks. NIPS 2014 <- Yoshua Bengio
+	https://arxiv.org/abs/1406.2661
