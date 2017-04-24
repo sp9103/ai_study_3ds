@@ -4,6 +4,6 @@
 -github link: https://github.com/caffe2/caffe2
 
 # Challenge
--Kaggle : https://www.kaggle.com/ 
--https://github.com/aikorea/strikersii_ai - AI playing Strikers 1945 II
--https://www.microsoft.com/en-us/research/project/project-malmo/ - Project Malmo
+-Kaggle : https://www.kaggle.com/ <br>
+-https://github.com/aikorea/strikersii_ai - AI playing Strikers 1945 II <br>
+-https://www.microsoft.com/en-us/research/project/project-malmo/ - Project Malmo <br>
