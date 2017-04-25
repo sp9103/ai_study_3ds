@@ -6,6 +6,6 @@ Note
 List
 - Jayakorn Vongkulbhisal, et al., [Motion From Structure (MfS): Searching for 3D Objects in Cluttered Point Trajectories](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Vongkulbhisal_Motion_From_Structure_CVPR_2016_paper.html), CVPR 2016
 - Ashesh Jain et al., [Structural-RNN: Deep Learning on Spatio-Temporal Graphs](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.html), CVPR 2016 Best student paper
-- Ian J. Goodfellow et al., [Generative Adversarial Networks](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Vongkulbhisal_Motion_From_Structure_CVPR_2016_paper.html) NIPS 2014 <- Yoshua Bengio
-- Choy et al., [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Vongkulbhisal_Motion_From_Structure_CVPR_2016_paper.html), ECCV'16.
-- V Mnih et al., [Playing Atari with Deep Reinforcement Learning](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Vongkulbhisal_Motion_From_Structure_CVPR_2016_paper.html), NIPS 2013 <-Google DeepMind
+- Ian J. Goodfellow et al., [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) NIPS 2014 <- Yoshua Bengio
+- Choy et al., [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction](http://3d-r2n2.stanford.edu/), ECCV'16.
+- V Mnih et al., [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602), NIPS 2013 <-Google DeepMind
