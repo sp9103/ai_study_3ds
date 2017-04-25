@@ -3,7 +3,10 @@
 - 2017.04.19 Caffe2 Release (http://caffe2.ai/)<br>
 - github link: https://github.com/caffe2/caffe2<br>
 
-# Challenge
+# Challenges or Collaborations
 - Kaggle : https://www.kaggle.com/ <br>
+- tunedit : http://tunedit.org/challenges <br>
+- OpenML: https://www.openml.org/ <br> 
+- Quantopian: https://www.quantopian.com/home <br>
 - https://github.com/aikorea/strikersii_ai - AI playing Strikers 1945 II <br>
 - https://www.microsoft.com/en-us/research/project/project-malmo/ - Project Malmo <br>
