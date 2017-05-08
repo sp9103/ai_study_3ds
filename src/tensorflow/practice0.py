@@ -19,7 +19,7 @@ print(node1, node2)
 #output: 
 # Tensor("Const:0", shape=(), dtype=float32) Tensor("Const_1:0", shape=(), dtype=float32)
 
-ss = tf.Session() # Q: what is the difference between upper and lower camel cases?
+ss = tf.Session() # Q: What is the difference between upper and lower camel cases?
 print(ss.run([node1, node2]))
 #output:
 # [3.0, 4.0]
